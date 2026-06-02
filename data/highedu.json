@@ -1,0 +1,49 @@
+{
+  "Artificial Intelligence": {
+    "countries": ["USA", "Germany", "Canada"],
+    "exams": ["GRE", "IELTS", "TOEFL"],
+    "scholarships": ["Fulbright", "DAAD"]
+  },
+
+  "Data Science": {
+    "countries": ["USA", "UK", "Canada"],
+    "exams": ["GRE", "IELTS"],
+    "scholarships": ["Chevening", "Fulbright"]
+  },
+
+  "Software Development": {
+    "countries": ["USA", "Germany", "Canada"],
+    "exams": ["GRE", "IELTS", "TOEFL"],
+    "scholarships": ["Fulbright", "DAAD", "Erasmus"]
+  },
+
+  "Cybersecurity": {
+    "countries": ["USA", "Germany", "Australia"],
+    "exams": ["GRE", "IELTS"],
+    "scholarships": ["DAAD", "Australia Awards"]
+  },
+
+  "Agriculture Technology": {
+    "countries": ["Netherlands", "Australia", "Canada"],
+    "exams": ["IELTS", "TOEFL"],
+    "scholarships": ["Orange Tulip", "Australia Awards"]
+  },
+
+  "Food Technology": {
+    "countries": ["Netherlands", "Germany", "USA"],
+    "exams": ["IELTS", "TOEFL"],
+    "scholarships": ["Orange Tulip", "DAAD"]
+  },
+
+  "Business & Management": {
+    "countries": ["USA", "UK", "Singapore"],
+    "exams": ["GMAT", "IELTS"],
+    "scholarships": ["Chevening", "Fulbright"]
+  },
+
+  "Design & Creative Fields": {
+    "countries": ["Italy", "UK", "France"],
+    "exams": ["IELTS"],
+    "scholarships": ["Erasmus", "DAAD"]
+  }
+}

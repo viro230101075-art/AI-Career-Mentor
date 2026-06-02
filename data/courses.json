@@ -1,0 +1,47 @@
+{
+  "Artificial Intelligence": [
+    "Machine Learning by Andrew Ng",
+    "Deep Learning Specialization",
+    "Generative AI for Everyone"
+  ],
+
+  "Data Science": [
+    "Data Science Specialization",
+    "Python for Data Science",
+    "Statistics for Data Science"
+  ],
+
+  "Software Development": [
+    "CS50",
+    "Full Stack Web Development",
+    "System Design Fundamentals"
+  ],
+
+  "Cybersecurity": [
+    "Google Cybersecurity Certificate",
+    "Ethical Hacking Course",
+    "Network Security Fundamentals"
+  ],
+
+  "Agriculture Technology": [
+    "Introduction to Precision Agriculture",
+    "Smart Farming Technologies"
+  ],
+
+  "Food Technology": [
+    "Food Processing Fundamentals",
+    "Food Safety Management"
+  ],
+
+  "Business & Management": [
+    "Business Foundations",
+    "Project Management",
+    "Leadership Skills"
+  ],
+
+  "Design & Creative Fields": [
+    "Google UX Design",
+    "Figma Masterclass",
+    "Graphic Design Fundamentals"
+  ]
+}

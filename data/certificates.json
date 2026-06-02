@@ -1,0 +1,47 @@
+{
+  "Artificial Intelligence": [
+    "IBM AI Engineering Professional Certificate",
+    "Google AI Essentials",
+    "DeepLearning.AI Generative AI Specialization"
+  ],
+
+  "Data Science": [
+    "IBM Data Science Professional Certificate",
+    "Google Data Analytics",
+    "Microsoft Data Scientist Associate"
+  ],
+
+  "Software Development": [
+    "AWS Developer Associate",
+    "Oracle Java Certification",
+    "Microsoft Azure Developer Associate"
+  ],
+
+  "Cybersecurity": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker (CEH)",
+    "CompTIA CySA+"
+  ],
+
+  "Agriculture Technology": [
+    "Precision Agriculture Certification",
+    "Smart Farming Technologies Certification"
+  ],
+
+  "Food Technology": [
+    "Food Safety Certification",
+    "HACCP Certification"
+  ],
+
+  "Business & Management": [
+    "Project Management Professional (PMP)",
+    "Certified Scrum Master",
+    "Google Project Management"
+  ],
+
+  "Design & Creative Fields": [
+    "Google UX Design",
+    "Adobe Certified Professional",
+    "Interaction Design Foundation UX Certification"
+  ]
+}

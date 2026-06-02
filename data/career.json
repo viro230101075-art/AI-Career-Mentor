@@ -1,0 +1,84 @@
+{
+  "Artificial Intelligence": {
+    "description": "Develop intelligent systems using machine learning and deep learning.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Computer Vision"
+    ]
+  },
+
+  "Data Science": {
+    "description": "Analyze data to derive insights and support decision making.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Data Visualization",
+      "Machine Learning"
+    ]
+  },
+
+  "Software Development": {
+    "description": "Design and develop software applications.",
+    "skills": [
+      "Python",
+      "Java",
+      "Data Structures",
+      "Algorithms",
+      "System Design"
+    ]
+  },
+
+  "Cybersecurity": {
+    "description": "Protect systems and networks from cyber threats.",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Ethical Hacking",
+      "Cryptography",
+      "Security Analysis"
+    ]
+  },
+
+  "Agriculture Technology": {
+    "description": "Use technology to improve agriculture and farming.",
+    "skills": [
+      "IoT",
+      "Data Analysis",
+      "Remote Sensing",
+      "Automation"
+    ]
+  },
+
+  "Food Technology": {
+    "description": "Improve food production, safety, and quality.",
+    "skills": [
+      "Food Processing",
+      "Quality Control",
+      "Food Safety"
+    ]
+  },
+
+  "Business & Management": {
+    "description": "Manage organizations and business operations.",
+    "skills": [
+      "Leadership",
+      "Communication",
+      "Project Management",
+      "Analytics"
+    ]
+  },
+
+  "Design & Creative Fields": {
+    "description": "Create visual and user-centered solutions.",
+    "skills": [
+      "UI UX Design",
+      "Figma",
+      "Creativity",
+      "Graphic Design"
+    ]
+  }
+}
